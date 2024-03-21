@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+}
+.cards {
+display: grid;
+grid-template-columns: ;
+}
+#btn {
+  width: 40px;
+}
